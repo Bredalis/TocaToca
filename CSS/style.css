@@ -9,6 +9,12 @@ body {
 	background: #F4D03F;
 }
 
+audio {
+	position: relative;
+	right: 50%;
+	margin-bottom: 30px;
+}
+
 img, #inicio p, #cuerpo p, table, a {
 	position: relative;
 }
@@ -43,7 +49,7 @@ img:hover {
 }
 
 #img1 {
-	left: 30rem;
+	left: 50rem;
 	top: 5rem;
 }
 
