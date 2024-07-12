@@ -2,10 +2,15 @@
 * {
 	text-align: center;
 	margin: 0px;
-	font-family: Georgia;
+}
+
+@font-face {
+	font-family: "CloudyBright";
+	src: url("../Fuentes/CloudyBright.otf") format("opentype");
 }
 
 body {
+	font-family: "CloudyBright";
 	background: #F4D03F;
 }
 
@@ -27,12 +32,17 @@ table, table td {
 	color: red;
 }
 
+#inicio p {
+	text-align: justify;
+}
+
 h2 {
 	margin: 20px;
 }
 
 h3 {
 	margin: 30px;
+	color: red;		
 }
 
 img {
@@ -86,6 +96,7 @@ table td {
 table td:hover {
 	background: red;
 	color: white;
+	font-size: 20px;	
 }
 
 table tr th {
@@ -132,7 +143,7 @@ a:hover {
 
 footer p {
 	font-size: 25px;
-	background: red;
+	background-color: red;
 	padding: 20px;
 	color: white;
 }
