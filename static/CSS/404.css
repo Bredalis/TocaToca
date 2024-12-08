@@ -1,5 +1,4 @@
 
-
 * {
 	text-align: center;
 }
@@ -11,7 +10,7 @@
 
 body {
 	font-family: "CloudyBright";
-	background: #F4D03F;	
+	background: #F4D03F;
 }
 
 main {
@@ -46,7 +45,7 @@ a {
 	font-size: 20px;
 }
 
-/* Animaciones  */
+/* Animaciones */
 @keyframes slide-up {
 	to {
 		opacity: 1;

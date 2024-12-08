@@ -46,7 +46,7 @@ h2 {
 
 h3 {
 	margin: 30px;
-	color: red;		
+	color: red;
 }
 
 img {
@@ -100,7 +100,7 @@ table td {
 table td:hover {
 	background: red;
 	color: white;
-	font-size: 20px;	
+	font-size: 20px;
 }
 
 table tr th {
@@ -162,7 +162,7 @@ footer h1 {
 
 footer ul {
 	margin-top: -25%;
-	margin-left: 20%;	
+	margin-left: 20%;
 }
 
 footer ul li {
